@@ -40,6 +40,7 @@ public class F1 extends Car {
         changeGear(6);
 
 
+
         //for all other cases, change the gear accordingly
 
         if(newSpeed > 0) {
